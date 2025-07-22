@@ -24,7 +24,7 @@ ALLOWED_HOSTS = ['task.onrender.com']
 SECRET_KEY = 'django-insecure-m+&uvn(b=x+yvg2v+rcp4(y634)ie8k+$(fa-f5^eo87tx$ipe'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = []
 
